@@ -103,7 +103,7 @@
     "node-sass": "^4.9.3",
     "nodemailer": "^4.6.8",
     "nodemailer-smtp-transport": "^2.7.4",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^4.0.0",
     "prettier": "^1.14.2",
     "prop-types": "^15.6.2",
     "query-string": "^6.1.0",
